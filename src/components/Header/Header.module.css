@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+    color:var(--lilac);
+    padding:1em;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+   
+}
+header a{
+    color:var(--lilac);
+}
+
+.nav{
+    display: flex;
+    gap:1em;
+}

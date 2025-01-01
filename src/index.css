@@ -1,0 +1,23 @@
+:root{
+  --lilac:rgb(198, 132, 231);
+  --light-gray:rgb(158, 152, 152);
+  --dark-gray:rgb(93, 82, 82);
+
+}
+
+*{
+  margin:0;
+  
+}
+.container{
+  width:80%;
+  margin:0 auto
+}
+
+li{
+  list-style-type:none;
+}
+
+a{
+  text-decoration: none;
+}
